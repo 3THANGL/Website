@@ -2,8 +2,7 @@ html,body {
     font-family: "Inter", serif;
 }
 html{
-    width: 1440px;
-    height: 1775px;
+    height: 1175px;
 }
 .main{
     position: relative;
@@ -19,7 +18,7 @@ body{
         align-items: center;
         background: linear-gradient(to bottom right, #1e3c72, #2a5298, #9c4e97);
         background-size: cover;
-
+        background-repeat: no-repeat;
 }
 #group_15{
     position: relative;
